@@ -33,7 +33,6 @@ Se han desarrollado diferentes modelos para este proyecto, para los que se inclu
 - [RandomForestClassifier]()
 
 - [SVC]()
-- 
 
 Para cada uno de los modelos, el directorio padre contiene los siguientes directorios hijos:
 
