@@ -22,8 +22,18 @@ El objetivo de este proyecto es predecir si un pasajero del Titanic sobrevivió 
 
 Se han desarrollado diferentes modelos para este proyecto, para los que se incluyen enlaces a continuacion.
 
-- [DecisionTreeClassifier](../SISTEMAS_ML/Sistemas-ML-CLASIFICACION/Decision_Tree__[Clasificación]/Titanic_MachineLearningDisaster_DecisionTreeClassifier)
+- [DecisionTreeClassifier](Sistemas-ML-CLASIFICACION/Decision_Tree__[Clasificación]/Titanic_MachineLearningDisaster_DecisionTreeClassifier)
 
+- [KNNClassifier]()
+
+- [LogisticRegression]()
+
+- [MLPClassifier]()
+
+- [RandomForestClassifier]()
+
+- [SVC]()
+- 
 
 Para cada uno de los modelos, el directorio padre contiene los siguientes directorios hijos:
 
