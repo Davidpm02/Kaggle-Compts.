@@ -44,6 +44,6 @@ El objetivo de este proyecto es desarrollar un modelo predictivo que identifique
 
 Para cualquier pregunta o sugerencia sobre este proyecto, no dudes en contactarme:
 
-**Nombre**: David Padilla
-**Correo electrónico**: <dpadilla_dev@proton.me>
-**LinkedIn**: <https://www.linkedin.com/in/david-padilla-mu%C3%B1oz-52126725a/>
+* **Nombre**: David Padilla
+* **Correo electrónico**: <dpadilla_dev@proton.me>
+* **LinkedIn**: <https://www.linkedin.com/in/david-padilla-mu%C3%B1oz-52126725a/>
