@@ -2,7 +2,7 @@
 
 ## Descripción del Proyecto
 
-Este proyecto es una contribución a la competición #MLOlympiad en Kaggle, inspirada en la serie Playground - Temporada 3, Episodio 24. Se enfoca en un desafío de salud global crítico: el impacto negativo del tabaquismo en la salud. Reconocido como la principal causa de muertes y enfermedades prevenibles a nivel mundial, el tabaquismo sigue siendo un obstáculo significativo para la salud pública global.
+Este proyecto es una contribución a la competición [#MLOlympiad en Kaggle](https://www.kaggle.com/competitions/ml-olympiad-smoking/overview), inspirada en la serie Playground - Temporada 3, Episodio 24. Se enfoca en un desafío de salud global crítico: el impacto negativo del tabaquismo en la salud. Reconocido como la principal causa de muertes y enfermedades prevenibles a nivel mundial, el tabaquismo sigue siendo un obstáculo significativo para la salud pública global.
 
 A pesar de las intervenciones basadas en evidencia para ayudar en la cesación del tabaquismo, las tasas de éxito permanecen modestas. El consejo para dejar de fumar a menudo se considera ineficiente y consume mucho tiempo, lo que lleva a una necesidad de herramientas más eficaces para predecir y, por lo tanto, mejorar las tasas de éxito en la cesación del tabaquismo.
 
